@@ -15,7 +15,6 @@ Read the agreement and live up to it. Your project and team work has to have rul
 
 Feel free to review the points and contribute/pull request with new ones.
 
-Note that the project is split into two sub-projects. One for the [client](/client) and one for the [server](server). Further documentation in these folders.
 
 ## The Customer - THREAD 
 
@@ -72,6 +71,75 @@ Due to the complexity of this project we will only develop a platform where Inte
 
 Note: use the same logic and UI of the Mentors Results View for the Networking Results View
 
+### Second iteration
+
+      > Build Menu View with React based on the components previously created with the Storybook.io;
+
+      > Build List Views with React using the APIs structure for Internship ads, Events , Mentors and 
+      Networking and using the components that you created with Storybook.io;
+            Note #1: The availabilities of the Mentors should be listed;
+            Note #2: The search boxes don't need to be part of the Views in this stage because we are only 
+            developing Listing and not Search.
+
+      > Build List View for the Calendar using the API's structure for Events;
+
+      > Build List View for the Map using the API's structure for Events pinned them down on the map.
+            Note #3: Beware that even though the Mockups show several Maps, this exercise is only for Events.
+      
+      > Extra 
+            > Build a Footer with 4 new Items:
+
+            * About us with the following content:
+
+                  Textile Hub for Refugees' Empowerment, Employment 
+                  and Entrepreneurship Advancement in Denmark - a 
+                  new model
+
+                  THREAD is a dynamic and innovative collaboration
+                  of diverse partners from business, design, education, 
+                  research and refugee support agencies aiming to 
+                  achieve life-changing results for women who are 
+                  forging new lives in Denmark.
+
+                  Integration is a key problem for refugees and their 
+                  host countries. This project seeks to help solve this
+                  problem by developing and testing a pioneering 
+                  themed model of Empowerment, Employment and 
+                  Entrepreneurship opportunities. The model offers 
+                  a step-change programme to women refugees with 
+                  differing levels of life experience and educational 
+                  qualifications, which may be accessed according to 
+                  their individual confidence and competence.
+
+                  The project is funded by Innovationsfonden.
+
+            * Contact with the following content:
+
+                  Jane Malcolm-Davies, Director
+                  Centre for Textile Research
+                  University of Copenhagen
+                  Tel.: +45 26 20 22 09
+                  E-mail: jane@jmdandco.com
+
+                  Egzona Haxha, Co-Director
+                  Centre for Textile Research
+                  University of Copenhagen
+                  Tel.: +45 60 86 32 17
+                  E-mail: egzona@hum.ku.dk
+
+            * Developed by
+
+                  Group # for the Final Project Class at
+                  Hack Your Future - Copenhagen
+                  http://hackyourfuture.dk/
+            
+            * Facebook
+
+            Thread facebook page
+            https://www.facebook.com/threadcopenhagen/
+
+            Note: the items that actually have content should
+            show the content itself in a detail view.
 
 ###### Please check the JSON files provided through APIs
 
