@@ -183,6 +183,24 @@ https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-recruitment.jpg
 
 https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-research.jpg
 
+### Iteration 3
+1. Refactor file structure of your project so that you can have React and ExpressJS code in the same repository.
+2. Based on the sample API endpoints, design SQL tables for following entities:
+      1. `Internship`
+      2. `Event`
+      3. `Mentor`
+      4. `Networking`
+3. Implement following REST endpoints for each of the above entities uing Express
+      1. `GET /api/<entity_type>` - Get all entities of that type
+      2. `POST /api/<entity_type>` - Create a new entry for that entity type
+      3. `GET /api/<entity_type>/:id` - Get one entity of that type for given `id`
+      4. `PUT /api/<entity_type>/:id` - Update one entity of that type for given `id`
+      5. `DELETE /api/<entity_type>/:id` - Delete one entity of that type for given `id`
+
+      *NOTE: Deletion should be soft, i.e. objects should be marked as inactive instead of deleting them permanently from the database.*
+4. Replace Mockaroo endpoints by the new endpoints you in your REACT app.
+5. Deploy everything to Heroku.
+
 ## Class Daily Agenda
 
 ```
