@@ -201,6 +201,18 @@ https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-research.jpg
 4. Replace Mockaroo endpoints by the new endpoints you in your REACT app.
 5. Deploy everything to Heroku.
 
+### Iteration 4
+1. Add forms to `Create`, `Edit` and `Delete` each of the above entities.
+      1. Forms should show a loader while loading/sending data from/to server.
+      2. Use correct input type based on the field, e.g. use `<input type="email"/>` for Email field.
+      3. Each form should have 2 buttons
+            1. `Save`
+                  1. Save the form
+                  2. If any error occurs during save, highlight them
+                  3. Redirect to another page after save
+            2. `Cancel` - Take back to the previous page
+2. Add detail view for `Internship`, `Event` etc.
+
 ## Class Daily Agenda
 
 ```
