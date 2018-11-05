@@ -213,6 +213,10 @@ https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-research.jpg
             2. `Cancel` - Take back to the previous page
 2. Add detail view for `Internship`, `Event` etc.
 
+### Iteration 5
+1. Build Search queries for each table using the LIKE SQL statement and make sure that the search results records have an Active state. Connect your search components to the  SQL query using the API endpoints in order to show the data on the your app.
+Note: No need for cross table search and no need for full search. 
+
 ## Class Daily Agenda
 
 ```
