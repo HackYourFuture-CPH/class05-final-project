@@ -26,7 +26,7 @@ Learn more about our customer here: https://ctr.hum.ku.dk/research-programmes-an
 
 ## The Project Description
 
-### The goal for this project is to develop an online platform to facilitate the connections between refugee women and individuals or partners or other organisations which share an interest in textiles and craft activity. The partners or other organisations are part of the THREAD network therefore they will be metioned as networking.
+### The goal for this project is to develop an online platform to facilitate the connections between refugee women and individuals or partners or other organisations which share an interest in textiles and craft activity. The partners or other organisations are part of the THREAD network therefore they will be mentioned as networking.
 
 Due to the complexity of this project we will only develop a platform where Internship, Events, Calendar, Networking(Partners and other Organisations) and Individuals, which will be called Mentors for now on, will be available to be searched upon, listed and also inserted in the system. The goal is to built the List Views and Insert Views related to these objects and make is possible to search by text and visualize them in a Map.
 
